@@ -1,7 +1,7 @@
-TypeScript Jest Trigger Window Click Event Demo
+TypeScript Jest Trigger Local Storage Event Demo
 ===========================
 
-如何用两种方法触发window.click事件
+如何构造LocalStorage event
 
 ```
 npm install
